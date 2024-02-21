@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 09.01.2017 09:56:17
+
+newmtl cornice_wood
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka wood_f.jpg
+	map_Kd wood_f.jpg
+	map_bump wood_f_bump.jpg
+	bump wood_f_bump.jpg
+
+newmtl metal_baseboard
+	Ns 41.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6314 0.5569 0.2627
+	Ks 0.9270 0.9270 0.9270
+	Ke 0.0000 0.0000 0.0000
